@@ -1,14 +1,5 @@
-# COMSM0166 Project Template
+# COMSM0166 Project 
 A project template for the Software Engineering Discipline and Practice module (COMSM0166).
-
-## Info
-
-Please clone this repo to your team's repo. We'll be setting up your repo and assigning you to it after the group forming activity. You can delete this section after cloning, but please keep the rest of the repo structure intact.
-
-You will be developing your game using [P5.js](https://p5js.org) a javascript library that provides you will all the tools you need to make your game. However, we won't be teaching you javascript, this is a chance for you and your team to learn a (friendly) new language and framework quickly, something you will almost certainly have to do with your summer project and in future. There is a lot of documentation online, you can start with:
-
-- [P5.js tutorials](https://p5js.org/tutorials/) 
-- [Coding Train P5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js) course - go here for enthusiastic video tutorials from Dan Shiffman (recommeded!)
 
 ## Your Game
 
@@ -22,12 +13,12 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 
 Add a group photo here!
 
-- Group member 1, name, email, role
-- Group member 2, name, email, role
-- Group member 3, name, email, role
-- Group member 4, name, email, role
-- Group member 5, name, email, role
-- Group member 5, name, email, role
+- Group member 1, Jingwei Lin, qw24858@bristol.ac.uk, most handsome man
+- Group member 2, Xiao Wu, ev24875@bristol.ac.uk, role
+- Group member 3, Shaojie Yang, av24455@bristol.ac.uk, role
+- Group member 4, Yaoyao Shen, bz24315@bristol.ac.uk, role
+- Group member 5, name, qp24615@bristol.ac.uk, role
+- Group member 6, Yaxin Chen, mq24914@bristol.ac.uk, role
 
 ## Project Report
 
