@@ -17,7 +17,7 @@ Add a group photo here!
 - Group member 2, Xiao Wu, ev24875@bristol.ac.uk, role
 - Group member 3, Shaojie Yang, av24455@bristol.ac.uk, role
 - Group member 4, Yaoyao Shen, bz24315@bristol.ac.uk, role
-- Group member 5, Xinyi Zhou, qp24615@bristol.ac.uk, role
+- Group member 5, Xinyi Zhou, qp24615@bristol.ac.uk, chyx-17
 - Group member 6, Yaxin Chen, mq24914@bristol.ac.uk, role
 
 ## Project Report
