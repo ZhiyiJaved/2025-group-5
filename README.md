@@ -13,7 +13,7 @@ Include a demo video of your game here (you don't have to wait until the end, yo
 
 Add a group photo here!
 
-- Group member 1, Jingwei Lin, qw24858@bristol.ac.uk, most handsome man
+- Group member 1, Jingwei Lin, qw24858@bristol.ac.uk, ZhiyiJaved
 - Group member 2, Xiao Wu, ev24875@bristol.ac.uk, role
 - Group member 3, Shaojie Yang, av24455@bristol.ac.uk, role
 - Group member 4, Yaoyao Shen, bz24315@bristol.ac.uk, YasmineShen
